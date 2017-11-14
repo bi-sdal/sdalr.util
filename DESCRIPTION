@@ -1,4 +1,4 @@
-Package: sdalrUtil
+Package: sdalr.util
 Type: Package
 Title: Convenience utility functions for the Social and Decision Analytics Lab
 Version: 0.1.0
